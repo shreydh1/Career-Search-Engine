@@ -1,0 +1,11 @@
+Ranges for values used in the Database
+
+PersonID 	1000-1099
+CompanyID 	300-329
+JProfileCode 	200-239
+JobCode 	900-999
+ProjectID 	400-469
+KSCode 		500-559
+CourseID 	600-639
+SectionID 	101
+certCode 	800-849
